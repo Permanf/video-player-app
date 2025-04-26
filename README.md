@@ -14,10 +14,10 @@ A React-based video player application that enables seamless navigation between 
 
 ## Technologies
 
-- React 18 (TypeScript)
-- Vite 4
-- Tailwind CSS 3
-- React Router 6
+- React 19 (TypeScript)
+- Vite 6
+- Tailwind CSS 4
+- React Router 7
 - Browser Cache API
 
 ## Installation
